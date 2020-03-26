@@ -1,0 +1,34 @@
+body{
+    margin:0;
+    font-family: sans-serif;
+}
+#icon{
+    color:blue;
+}
+#phone-section{
+text-align:center;
+border-bottom:2px solid black;
+background-color:blue;
+width: 30%;
+margin-left:35%;
+color:white
+}
+.all-in{
+display:flex;
+flex-direction:row;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+#phone-section:hover{
+    background-color: grey;
+}
+#form-section{
+margin-left: 35%;
+}
+
+#page-heading{
+    text-align: center;
+}
+
+
+
